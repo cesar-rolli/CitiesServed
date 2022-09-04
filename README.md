@@ -8,4 +8,5 @@ Open the code at code editor and choose between the real list (you can find the 
 
 This software need to have delay because the GeoPy's API blocks access if you run all 300 cities at once.
 
+When the map will be created, this is will be their appearence:
 ![Served Cities](https://raw.githubusercontent.com/cesar-rolli/CitiesServed/main/served_cities.png)
