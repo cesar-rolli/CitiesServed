@@ -1,4 +1,3 @@
-from turtle import delay
 import pandas as pd
 import folium
 from geopy.geocoders import Nominatim

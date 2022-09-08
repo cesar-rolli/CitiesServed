@@ -1,6 +1,13 @@
 # CitiesServed
 Pinned served cities on a map from a list of cities.
 
+## What do you need to install?
+1. sudo apt install python3-pip
+2. pip install pandas
+3. pip install folium
+4. pip install geopy
+5. pip install tk
+
 ## How to use it?
 **You only need main.py and served_cities.md (or your own cities's list) to run the programm**
 
